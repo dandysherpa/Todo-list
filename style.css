@@ -25,7 +25,8 @@ button {
   font-size: 16px;
   border-radius: 16px;
   cursor: pointer;
-  background-color: rgb(95, 184, 95);
+  background-color: black;
+  color: white;
   border: none;
   font-family: "Times New Roman", Times, serif;
   font-weight: 400;
